@@ -5,5 +5,9 @@ This AI project uses Vite + React technology to run the host and an open AI base
  
 
 
-https://github.com/devagya-rattan/Image-Generator_AI/assets/112056749/6fb752fc-8610-4520-aaf1-49c2945fb205
+
+
+
+https://github.com/devagya-rattan/Image-Generator_AI/assets/112056749/65514579-f3ad-4237-bf04-2d843404299b
+
 
